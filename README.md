@@ -1,5 +1,12 @@
 "Analytics for Hospitals' Health-Care Data"
-By 
+
+
+
+
+
+
+
+
 Shree Narmadha TS(Team leader)
 Ayyankalai A
 Sanjeevi V

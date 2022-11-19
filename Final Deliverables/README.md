@@ -1,4 +1,4 @@
-"Analytics for Hospitals' Health-Care Data"
+"ANALYTICS FOR HOSPITALS' HEALTH-CARE DATA"
 
 PNT2022TMID07282
 
@@ -11,9 +11,10 @@ Sanjeevi V
 Thiripura Sundhar A
 
 
-DEMO LINK
+VIDEO DEMO LINK
 
 
 https://drive.google.com/drive/folders/1qrAYnJpLDM0-Mqc9WgKIS_bNffmRSQxS?usp=sharing
+
 
 
